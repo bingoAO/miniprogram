@@ -1,0 +1,8 @@
+<template name="postItem">
+  <view class="feed-item">
+    <view>
+    </view>
+    <view>
+    </view>
+  </view>
+</template>
